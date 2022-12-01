@@ -2,7 +2,7 @@
 
 ### UK
 
-| University | Degree | Program Link  | Application Link | Any Useful Links |
+| University | Degree | Program Link  | Application Link | Useful Links |
 |  ----  |  ----  | ----  | ---- | ---- |
 | University of Edinburgh | PhD | None | [Click](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=495) | [Link 1](https://www.ed.ac.uk/informatics/postgraduate/apply), [Link 2](https://www.ed.ac.uk/informatics/postgraduate/apply/planning-submission-pgr-application)|
 | University of Edinburgh | MRes + PhD | None | [Click](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2023&id=981) | None |

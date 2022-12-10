@@ -13,4 +13,4 @@
 
 | University | Degree | Program Link  | Application Link | Useful Links |
 |  ----  |  ----  | ----  | ---- | ---- |
-| University of Edinburgh | PhD | [Click](https://www.diagnijmegen.nl/vacancies/general_vacancy/) | [Click](https://www.radboudumc.nl/en/vacancies/126341-phd-candidate-artificial-intelligence-in-healthcare) | None |
+| Radboud University Nijmegen | PhD | [Click](https://www.diagnijmegen.nl/vacancies/general_vacancy/) | [Click](https://www.radboudumc.nl/en/vacancies/126341-phd-candidate-artificial-intelligence-in-healthcare) | None |
